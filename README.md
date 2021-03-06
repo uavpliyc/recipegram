@@ -15,7 +15,7 @@
 ## License
 
 ## Authors
-Nozaki
+NK
 
 ## References
 https://youtu.be/auLih2TFwio
