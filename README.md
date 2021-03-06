@@ -1,24 +1,21 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# recipegram
+レシピの投稿と閲覧ができるアプリ。
 
-Things you may want to cover:
+## Dependency
+・Ruby
+・Ruby on Rails
 
-* Ruby version
+## Setup
+セットアップ方法を書く。用意するハードウェアとソフトウェアをセットアップするためのコマンドを記載する
 
-* System dependencies
+## Usage
+レシピの投稿をする。レシピの参考にする。
 
-* Configuration
+## License
 
-* Database creation
+## Authors
+Nozaki
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## References
+https://youtu.be/auLih2TFwio
