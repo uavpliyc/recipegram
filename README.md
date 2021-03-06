@@ -3,8 +3,8 @@
 レシピの投稿と閲覧ができるアプリ。
 
 ## Dependency
-・Ruby
-・Ruby on Rails
+*Ruby 2.6.3
+*Ruby on Rails 5.2.4
 
 ## Setup
 セットアップ方法を書く。用意するハードウェアとソフトウェアをセットアップするためのコマンドを記載する
